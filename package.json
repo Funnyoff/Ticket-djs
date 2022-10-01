@@ -1,0 +1,24 @@
+{
+  "name": "ticket-par-funny",
+  "main": "index.js",
+  "author": "Funny | discord.gg/devfr",
+  "version": "1.0.0",
+  "description": "discord.gg/devfr",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "discord.js": "^13.8.0",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration": "^0.0.6",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.1.4",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "parsec": "2.0.2",
+    "quick.db": "^7.1.3"
+  }
+}
